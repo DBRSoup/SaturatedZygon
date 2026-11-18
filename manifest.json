@@ -1,10 +1,10 @@
 {
   "name": "SaturatedZygon",
-  "description": "Two Photon Disc upgrades that encourage the use of weapons that can apply all 3 base elements but do not change the weapon's element.",
+  "description": "Two Photon Disc upgrades that encourage the use of weapons that can apply all 3 base elements.",
   "version_number": "0.4.4",
   "website_url": "https://github.com/DBRSoup/SaturatedZygon",
   "dependencies": [
     "BepInEx-BepInExPack_Mycopunk-5.4.2403"
-  ],
+  ]
 }
 
